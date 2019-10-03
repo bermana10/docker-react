@@ -1,0 +1,6 @@
+All Applications  docker-react  DockerReact-env  Environment ID: e-qhnqp5wgpt, URL: 
+
+DockerReact-env.ydnmk7ajbn.us-east-1.elasticbeanstalk.com
+elasticbeanstalk-us-east-1-014891009532
+
+W/C7uQhUAqAuqPN7nsKVyq+u6e3YstsgE9RJCx/E   - secret key

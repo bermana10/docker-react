@@ -5,6 +5,9 @@ services:
 before_install:
   - docker build -t bermana10/docker-react -f Dockerfile .
 
+script:
+  - docker run -e CI=true bermana10/docker-react npm run test
+
 deploy:
   provider: elasticbeanstalk
   region: us-east-1
